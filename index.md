@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-| |  |
-|--|--|
-| ![](https://avatars3.githubusercontent.com/u/7101985?s=140&u=10f8e6449a1da528b8fbe76b3d6d997a28f80b13&v=4) |[Curriculum Vitae](https://drive.google.com/open?id=1xb9jPKKIH4YFFClGF7FbN8naj1g1pSDNj75B9LPG6PM)|
+
+
+|    |      |   |
+|----------|:-------------:|------:|
+| ![](https://avatars3.githubusercontent.com/u/7101985?s=140&u=10f8e6449a1da528b8fbe76b3d6d997a28f80b13&v=4) |  --> | [Curriculum Vitae](https://drive.google.com/open?id=1xb9jPKKIH4YFFClGF7FbN8naj1g1pSDNj75B9LPG6PM) |
 # About Me
 
 I'm BackEnd Developer 
